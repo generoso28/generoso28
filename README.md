@@ -22,8 +22,7 @@ Gosto de transformar ideias em código, fé em ação e café em *commits* ☕�
 - 🎓 **Graduando em Engenharia de Software** pelo [Inatel](https://inatel.br)
 - 👨‍💻 **Estagiário em Desenvolvimento de Software** no CDG Hub do Inatel
 - 📚 Leitor entusiasmado de teologia, história e ficção  
-- ✍️ Já escrevi **poesias, contos e estou me aventurando em um romance**  
-- 🤖 Participante da equipe de robótica **RobotBulls** 
+- ✍️ Já escrevi **poesias, contos e estou me aventurando em um romance**
 - 🎥 Voluntário na equipe de mídia da minha igreja, operando **OBS Studio** em transmissões ao vivo e podcasts  
 
 ---
@@ -60,7 +59,7 @@ Gosto de transformar ideias em código, fé em ação e café em *commits* ☕�
 ## ✝️ Um pouco além do código
 
 Acredito que **a tecnologia é uma ferramenta para servir a Deus e ao próximo**, e que boas ideias ganham propósito quando são usadas com sabedoria.  
-Ah, e se não estou programando... provavelmente estou lendo um sermão de Charles Spurgeon, um capítulo de Tolstói ou escrevendo algo novo. ✍️📖  
+Ah, e se não estou programando... provavelmente estou lendo ou escrevendo algo novo. ✍️📖  
 
 ---
 
