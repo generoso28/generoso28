@@ -69,11 +69,5 @@ Ah, e se não estou programando... provavelmente estou lendo ou escrevendo algo 
 - 🐙 [GitHub](https://github.com/generoso28)  
 - ✉️ **lucas.caixeta10@gmail.com**
 
----
-
-<p align="center">
-  <img src="https://github.com/generoso28/generoso28/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 
 > “Soli Deo Gloria.” ✨
