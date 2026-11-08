@@ -47,15 +47,6 @@ Gosto de transformar ideias em código, fé em ação e café em *commits* ☕�
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=generoso28&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=generoso28&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
 ## ✝️ Um pouco além do código
 
 Acredito que **a tecnologia é uma ferramenta para servir a Deus e ao próximo**, e que boas ideias ganham propósito quando são usadas com sabedoria.  
